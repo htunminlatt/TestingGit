@@ -29,13 +29,7 @@ class ViewController: UIViewController {
 
     }
     
-    override func viewWillAppear(_ animated: Bool) {
-        print("hello world...")
-        
-    }
-
-    }
-    
+  
     override func viewWillAppear(_ animated: Bool) {
         print("testing...")
     }
