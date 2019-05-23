@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     }
     
     override func viewWillAppear(_ animated: Bool) {
-        print("Htun Htun ...")
+        print("hello world...")
     }
 
 
