@@ -34,6 +34,10 @@ class ViewController: UIViewController {
         print("hello world...")
          print("Adding new testing.....")
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        print("welcome..")
+    }
   
 }
 
