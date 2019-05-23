@@ -32,6 +32,8 @@ class ViewController: UIViewController {
   
     override func viewWillAppear(_ animated: Bool) {
         print("testing...")
+        
+        print("Adding new testing.....")
     }
 
 }
