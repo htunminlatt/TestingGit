@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("World..")
         print("hello world..")
         
+
+        print("This is me..")
+
         
 
         print("welcome from..")
@@ -30,6 +33,11 @@ class ViewController: UIViewController {
         print("hello world...")
     }
 
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        print("testing...")
+    }
 
 }
 
